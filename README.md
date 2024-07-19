@@ -35,7 +35,9 @@ LINK graph[DIMENSION][DIMENSION] = {
 
 ### Пример вывода
 
-```0 + I1*R1 - I1*R1 - I2*R1 + I1*R4 + I1*R1 - I1*R1 - I2*R1 = 0
+```
+0 + I1*R1 - I1*R1 - I2*R1 + I1*R4 + I1*R1 - I1*R1 - I2*R1 = 0
 0 - I2*R6 + I2*R5 + I3*R5 + I1*R1 - I1*R1 - I2*R1 = 0 - E1
-0 - I3*R3 + I3*R3 - I3*R3 + I3*R3 + I2*R5 + I3*R5 = 0```
+0 - I3*R3 + I3*R3 - I3*R3 + I3*R3 + I2*R5 + I3*R5 = 0
+```
 
